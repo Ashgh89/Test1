@@ -8,7 +8,7 @@ More information about this project [here](https://google.com)
 Here you can find my image [image](git-github.png)
 
 ## emojis
-:smile:
+:smile:  
 :book:
-:sun:
+
 
