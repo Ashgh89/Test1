@@ -9,6 +9,6 @@ Here you can find my image [image](git-github.png)
 
 ## emojis
 :smile:  
-:book:
-
-
+:book:  
+👽
+🥑
